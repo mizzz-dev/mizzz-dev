@@ -37,47 +37,121 @@
 
 ## Featured Builds
 
-### [lunaria](https://github.com/mizzz-dev/lunaria) — Community Operations Platform
-Discordコミュニティ運営を、Bot・管理ダッシュボード・API・Workerで支える運用プラットフォーム。ルールエンジン、プラグイン、RBAC、監査ログまで含めたモノレポ構成。
-`TypeScript` `Next.js` `Fastify` `discord.js` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Turborepo`
+<p align="center">
+  <img src="./assets/featured-builds.svg" width="100%" alt="featured builds animated banner" />
+</p>
 
-### [quizverse](https://github.com/mizzz-dev/quizverse) — Interactive Quiz Experience
-クイズ作成・プレイ・ランキングを中心に、学習と参加導線をつなぐインタラクティブWebプロダクト。継続しやすい画面遷移と体験設計を重視。
-`React` `Tailwind CSS` `Vite` `Flask` `SQLAlchemy` `PostgreSQL` `Docker`
-
-### [RouteGarage](https://github.com/mizzz-dev/RouteGarage) — Drive Planning & Community Utility
-ドライブ記録・ルート整理・スポット共有・愛車管理を一体化するプロダクト構想。route/planning/utilityを軸に情報を整理しやすい設計を目指したリポジトリ。
-`Product Planning` `Route` `Map` `Community` `AI-Native Protocol`
-
-### [NTE-Build-Score-Calculator](https://github.com/mizzz-dev/NTE-Build-Score-Calculator) — Build Score Utility
-ゲーム内ビルドのスコア確認を支援するWebアプリ。入力・計算・確認の流れを短くし、継続運用しやすいUI/ドキュメント整備を重視。
-`Next.js` `TypeScript` `Vitest` `Supabase` `Tailwind CSS`
-
-### [mealwise](https://github.com/mizzz-dev/mealwise) — Daily Meal Planning App
-予算内での食事計画・買い物・価格記録をつなぐライフスタイル系Webアプリ。日常で使いやすい入力導線と継続利用しやすい設計を重視。
-`Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Planning`
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mizzz-dev/lunaria">lunaria</a></h3>
+      <p><strong>Community Operations Platform</strong></p>
+      <p>Discordコミュニティ運営を、Bot・管理ダッシュボード・API・Workerで支える運用プラットフォーム。ルールエンジン、プラグイン、RBAC、監査ログまで含めて、日々のオペレーションをプロダクトとして扱う構成。</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+        <img src="https://img.shields.io/badge/discord.js-111827?style=flat-square&logo=discord&logoColor=white" alt="discord.js" />
+        <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/BullMQ-111827?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
+        <img src="https://img.shields.io/badge/Turborepo-111827?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/mizzz-dev/quizverse">quizverse</a></h3>
+      <p><strong>Interactive Quiz Experience</strong></p>
+      <p>クイズ作成・プレイ・ランキングを中心に、学習と参加導線をつなぐインタラクティブWebプロダクト。継続しやすい画面遷移と、参加したくなる体験設計を重視。</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mizzz-dev/RouteGarage">RouteGarage</a></h3>
+      <p><strong>Drive Planning & Community Utility</strong></p>
+      <p>ドライブ記録・ルート整理・スポット共有・愛車管理を一体化するプロダクト構想。route / planning / utility を軸に、日常の移動体験を整理しやすくする設計。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Product_Planning-111827?style=flat-square" alt="Product Planning" />
+        <img src="https://img.shields.io/badge/Route-111827?style=flat-square" alt="Route" />
+        <img src="https://img.shields.io/badge/Map-111827?style=flat-square" alt="Map" />
+        <img src="https://img.shields.io/badge/Community-111827?style=flat-square" alt="Community" />
+        <img src="https://img.shields.io/badge/AI_Native_Protocol-111827?style=flat-square" alt="AI Native Protocol" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/mizzz-dev/NTE-Build-Score-Calculator">NTE-Build-Score-Calculator</a></h3>
+      <p><strong>Build Score Utility</strong></p>
+      <p>ゲーム内ビルドのスコア確認を支援するWebアプリ。入力・計算・確認の流れを短くし、継続運用しやすいUIとテストを重視。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Vitest-111827?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+        <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mizzz-dev/mealwise">mealwise</a></h3>
+      <p><strong>Daily Meal Planning App</strong></p>
+      <p>予算内での食事計画・買い物・価格記録をつなぐライフスタイル系Webアプリ。日常で使いやすい入力導線と、続けやすい小さなプロダクト体験を重視。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Planning-111827?style=flat-square" alt="Planning" />
+      </p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="section divider" />
 </p>
 
-## Stack / Engineering Lanes
+## Stack / Engineering Range
 
-### Verified Stack
+### Core Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,pnpm,fastapi,postgres,redis,py,docker,githubactions,cloudflare&theme=dark" alt="verified stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,go,postgres,docker,githubactions,cloudflare&theme=dark" alt="core stack icons" />
 </p>
 
-- **Frontend Core**: React / Next.js / TypeScript / Tailwind CSS
-- **Product Runtime**: Node.js / Fastify / API / Worker / Discord Bot
-- **Backend Base**: Python / Flask / SQLAlchemy / PostgreSQL / Redis / Docker
-- **Infra / Tooling**: GitHub Actions / Cloudflare / pnpm / Turborepo / Vitest / pytest
+### Product Range
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nuxtjs,flutter,unreal,c,cs,cpp,js,vite,fastify,fastapi,redis,vercel&theme=dark" alt="product range icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Render-Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=111827" alt="Render" />
+</p>
 
-### Working / Exploring
-- **AI Native Workflow**: 要件整理 / 設計レビュー / デバッグ / 運用整理
-- **Design / Product**: UI Engineering / Product Design / 改善サイクル
-- **Next Lanes**: LLM-assisted Development / Automation / Observability / AWS / Stripe / Figma / Rust
+### Cloud / AI / Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel&theme=dark" alt="cloud and deploy icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Native-Development-8b5cf6?style=for-the-badge" alt="AI Native Development" />
+  <img src="https://img.shields.io/badge/LLM--assisted-Development-60a5fa?style=for-the-badge" alt="LLM assisted Development" />
+  <img src="https://img.shields.io/badge/Automation-Workflow-0f172a?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Requirement-Design-312e81?style=for-the-badge" alt="Requirement Design" />
+  <img src="https://img.shields.io/badge/Design-Review-1d4ed8?style=for-the-badge" alt="Design Review" />
+  <img src="https://img.shields.io/badge/Debugging-Operation-1e293b?style=for-the-badge" alt="Debugging" />
+  <img src="https://img.shields.io/badge/Operation-Design-334155?style=for-the-badge" alt="Operation Design" />
+</p>
 
+- **Experience Range Policy**: Core Stack は現在の主力、Product Range は public / private / archived を含む経験レンジ、Cloud / AI / Workflow は運用と開発スタイルを示しています。
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="section divider" />
 </p>
