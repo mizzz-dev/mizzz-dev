@@ -1,43 +1,8 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="contact portal banner">
-  <defs>
-    <linearGradient id="cp-bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#050816"/>
-      <stop offset="0.55" stop-color="#0A1026"/>
-      <stop offset="1" stop-color="#040611"/>
-    </linearGradient>
-    <linearGradient id="cp-line" x1="80" y1="90" x2="1120" y2="90" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#d946ef" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="cp-ring" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.65"/>
-      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="180" rx="20" fill="url(#cp-bg)"/>
-  <rect x="28" y="24" width="1144" height="132" rx="14" stroke="#93c5fd" stroke-opacity="0.25"/>
-  <line x1="80" y1="90" x2="1120" y2="90" stroke="url(#cp-line)" stroke-width="1.5"/>
-
-  <g transform="translate(600 90)">
-    <circle r="44" stroke="#60a5fa" stroke-opacity="0.7" stroke-width="1.6"/>
-    <circle r="30" stroke="#d946ef" stroke-opacity="0.55" stroke-width="1.2"/>
-    <circle r="18" fill="url(#cp-ring)"/>
-    <circle r="4" fill="#E2E8F0"/>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
-      <circle cx="54" cy="0" r="3" fill="#22d3ee"/>
-      <circle cx="-54" cy="0" r="2.5" fill="#d946ef"/>
-    </g>
-  </g>
-
-  <text x="84" y="72" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2">CONTACT PORTAL</text>
-  <text x="84" y="106" fill="#93C5FD" font-family="Segoe UI,Arial,sans-serif" font-size="14">Open a portal for product UI, small builds, automation, and AI-native development.</text>
-  <text x="84" y="132" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.2">WEBSITE / EMAIL / X / INSTAGRAM</text>
-
-  <g opacity="0.75">
-    <circle cx="1080" cy="52" r="2" fill="#22d3ee"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="1110" cy="88" r="2" fill="#d946ef"><animate attributeName="opacity" values="0.2;1;0.2" dur="5.2s" repeatCount="indefinite"/></circle>
-    <circle cx="1060" cy="124" r="2" fill="#60a5fa"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.6s" repeatCount="indefinite"/></circle>
-  </g>
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contact portal HUD panel">
+<rect width="1200" height="230" rx="18" fill="#0f172a"/><text x="70" y="72" fill="#f8fafc" font-size="34" font-family="Segoe UI" font-weight="700">CONTACT PORTAL</text>
+<path d="M50 170H1150" stroke="#334155"/><path d="M120 158H1080" stroke="#38bdf8" stroke-opacity=".5"/><path d="M120 182H1080" stroke="#8b5cf6" stroke-opacity=".45"/>
+<path d="M70 35V195M1130 35V195" stroke="#38bdf8" stroke-opacity=".4"/>
+<circle cx="1040" cy="55" r="6" fill="#ef4444"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+<g stroke="#60a5fa" stroke-width="2"><path d="M180 118L320 118L360 95"/><path d="M360 95L520 95"/><path d="M520 95L680 118"/><path d="M680 118L850 118"/></g>
+<rect x="165" y="107" width="30" height="22" rx="4" fill="#111827" stroke="#38bdf8"/><rect x="500" y="84" width="30" height="22" rx="4" fill="#111827" stroke="#8b5cf6"/><rect x="835" y="107" width="30" height="22" rx="4" fill="#111827" stroke="#38bdf8"/>
 </svg>

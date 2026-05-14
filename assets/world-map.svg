@@ -1,13 +1,8 @@
-<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="developer world map">
-<rect width="1200" height="240" rx="16" fill="#0f172a"/>
-<g stroke="#60a5fa" stroke-opacity="0.5">
-<path d="M120 120H300L420 70H620L760 130H980"/>
-<path d="M420 70L420 170H620"/>
-</g>
-<g fill="#38bdf8">
-<circle cx="120" cy="120" r="7"/><circle cx="300" cy="120" r="7"/><circle cx="420" cy="70" r="7"/><circle cx="620" cy="70" r="7"/><circle cx="760" cy="130" r="7"/><circle cx="980" cy="130" r="7"/><circle cx="420" cy="170" r="7"/><circle cx="620" cy="170" r="7"/>
-</g>
-<g fill="#e2e8f0" font-size="13" font-family="Segoe UI,Arial">
-<text x="90" y="146">Frontend City</text><text x="270" y="146">API Gate</text><text x="386" y="56">Database Core</text><text x="584" y="56">Worker Factory</text><text x="726" y="154">Bot Guild</text><text x="946" y="154">AI Lab</text><text x="380" y="196">Cloud Port</text><text x="582" y="196">Game Zone</text>
-</g>
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cyber route world map">
+<rect width="1200" height="320" rx="20" fill="#111827"/>
+<text x="60" y="60" fill="#f8fafc" font-size="32" font-family="Segoe UI" font-weight="700">WORLD MAP</text>
+<g fill="#cbd5e1" font-size="15" font-family="Segoe UI"><text x="100" y="126">Frontend Bay</text><text x="280" y="220">API Gate</text><text x="480" y="135">Database Core</text><text x="680" y="230">Worker Lane</text><text x="860" y="126">Bot Station</text><text x="950" y="235">AI Lab</text><text x="90" y="250">Cloud Port</text><text x="430" y="270">Game Zone</text><text x="760" y="92">Night Route</text></g>
+<path d="M120 150C220 92 300 252 420 170C530 100 640 260 760 178C870 108 980 240 1100 160" stroke="#38bdf8" stroke-width="3" fill="none"/>
+<path d="M120 170C240 108 340 274 460 190C560 122 670 280 790 198C898 126 1000 258 1100 182" stroke="#8b5cf6" stroke-width="2" fill="none" opacity=".8"/>
+<circle cx="120" cy="150" r="4" fill="#ef4444"><animateMotion dur="14s" repeatCount="indefinite" path="M0 0C100 -58 180 102 300 20C410 -50 520 110 640 28C750 -42 860 90 980 10"/></circle>
 </svg>

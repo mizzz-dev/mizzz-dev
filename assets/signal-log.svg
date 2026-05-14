@@ -1,0 +1,7 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Signal log telemetry header">
+<rect width="1200" height="220" rx="18" fill="#111827"/>
+<text x="60" y="66" fill="#f8fafc" font-size="32" font-family="Segoe UI" font-weight="700">SIGNAL LOG</text>
+<path d="M60 156C140 138 200 176 280 156C360 136 420 177 500 156C580 135 640 176 720 156C800 137 860 178 940 156C1020 136 1080 174 1140 156" stroke="#38bdf8" stroke-width="3" fill="none"/>
+<circle cx="1020" cy="92" r="42" stroke="#8b5cf6" stroke-width="5" fill="none"/><path d="M1020 92L1046 80" stroke="#60a5fa" stroke-width="3"><animateTransform attributeName="transform" type="rotate" values="-18 1020 92;30 1020 92;-18 1020 92" dur="9s" repeatCount="indefinite"/></path>
+<rect x="60" y="184" width="1080" height="5" fill="#1f2937"/><rect x="60" y="184" width="360" height="5" fill="#ef4444"><animate attributeName="width" values="120;520;360" dur="10s" repeatCount="indefinite"/></rect>
+</svg>
