@@ -25,11 +25,28 @@
 
 ## Current Focus
 
-- **Product UI**: React / Next.js / TypeScript で使いやすい画面を作る
-- **Full Stack Foundation**: API・DB・Worker・Bot をつなげて運用できる形にする
-- **AI Native Development**: 要件整理 / 設計レビュー / デバッグ / 運用整理にAIを組み込む
-- **Dashboard / Bot / Worker**: 運用導線を含めた実装を優先する
-- **Small Product Shipping**: 小さく作って改善しながら使える形に育てる
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Product UI</h3>
+      <p>React / Next.js / TypeScript で、使いやすい画面と導線を設計します。</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full Stack Foundation</h3>
+      <p>API・DB・Worker・Bot をつなげて、運用できる形まで整えます。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Native Development</h3>
+      <p>AIを要件整理・設計レビュー・デバッグ・運用整理に組み込みます。</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Small Product Shipping</h3>
+      <p>小さく作って、改善しながら使える形に育てます。</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="section divider" />
@@ -123,6 +140,11 @@
 
 ## Stack / Engineering Range
 
+<p align="center">
+  <img src="./assets/stack-orbit.svg" width="100%" alt="stack orbit animated visual" />
+</p>
+
+
 ### Core Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,go,postgres,docker,githubactions,cloudflare&theme=dark" alt="core stack icons" />
@@ -130,20 +152,20 @@
 
 ### Product Range
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxtjs,flutter,unreal,c,cs,cpp,js,vite,fastify,fastapi,redis,vercel&theme=dark" alt="product range icons" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs,flutter,unreal,c,cs,cpp,fastapi,redis,vercel&theme=dark" alt="product range icons" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Render-Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=111827" alt="Render" />
 </p>
 
-### Cloud / AI / Workflow
+### Cloud / Deploy
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel&theme=dark" alt="cloud and deploy icons" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Native-Development-8b5cf6?style=for-the-badge" alt="AI Native Development" />
-  <img src="https://img.shields.io/badge/LLM--assisted-Development-60a5fa?style=for-the-badge" alt="LLM assisted Development" />
+  <img src="https://img.shields.io/badge/LLM--assisted-Workflow-60a5fa?style=for-the-badge" alt="LLM assisted workflow" />
   <img src="https://img.shields.io/badge/Automation-Workflow-0f172a?style=for-the-badge" alt="Automation" />
   <img src="https://img.shields.io/badge/Requirement-Design-312e81?style=for-the-badge" alt="Requirement Design" />
   <img src="https://img.shields.io/badge/Design-Review-1d4ed8?style=for-the-badge" alt="Design Review" />
@@ -177,7 +199,7 @@ UI改善、機能追加、設計整理、Bot連携、ダッシュボード構築
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mizzz-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=60a5fa&text_color=cbd5e1&icon_color=8b5cf6" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzz-dev&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" height="170" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzz-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=mizzz-dev&cache_seconds=21600" height="170" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -189,14 +211,20 @@ UI改善、機能追加、設計整理、Bot連携、ダッシュボード構築
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mizzz-dev&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=8&row=1&column=6" width="100%" alt="GitHub trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mizzz-dev&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=8&row=1&column=5&title=Commits,PullRequest,Issues,Repositories,Experience" width="100%" alt="GitHub trophy" />
 </p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="section divider" />
+</p>
+
+## Contribution Flow
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake.svg" width="100%" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake.svg" width="860" />
   </picture>
 </p>
 
