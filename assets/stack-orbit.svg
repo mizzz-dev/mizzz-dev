@@ -1,0 +1,44 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Stack Orbit</title>
+  <desc id="desc">Connected engineering lanes with subtle orbit animation in blue and purple tones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="1" stop-color="#0b1026"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="90" x2="1120" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60a5fa" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#8b5cf6" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" rx="18" fill="url(#bg)"/>
+  <text x="80" y="54" fill="#cbd5e1" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.5">Stack Orbit</text>
+  <text x="80" y="78" fill="#94a3b8" font-size="13" font-family="Segoe UI, Arial, sans-serif">Frontend / Backend / Cloud / AI / Game</text>
+
+  <path d="M80 110H1120" stroke="url(#line)" stroke-width="1.2" stroke-dasharray="5 8"/>
+  <ellipse cx="600" cy="110" rx="460" ry="42" stroke="#60a5fa" stroke-opacity="0.25"/>
+  <ellipse cx="600" cy="110" rx="320" ry="28" stroke="#8b5cf6" stroke-opacity="0.3"/>
+
+  <g fill="#60a5fa">
+    <circle cx="200" cy="110" r="4"/>
+    <circle cx="380" cy="84" r="4"/>
+    <circle cx="600" cy="110" r="5"/>
+    <circle cx="820" cy="136" r="4"/>
+    <circle cx="1000" cy="110" r="4"/>
+  </g>
+
+  <g fill="#a78bfa" filter="url(#glow)">
+    <circle cx="360" cy="110" r="2.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 110" to="360 600 110" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="890" cy="110" r="2.5">
+      <animateTransform attributeName="transform" type="rotate" from="360 600 110" to="0 600 110" dur="20s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
