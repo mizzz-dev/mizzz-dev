@@ -1,6 +1,7 @@
-<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="patch notes header">
-<rect width="1200" height="140" rx="14" fill="#111827"/>
-<text x="36" y="56" fill="#f8fafc" font-size="30" font-family="Segoe UI,Arial">Patch Notes</text>
-<text x="36" y="90" fill="#93c5fd" font-size="15" font-family="Segoe UI,Arial">Profile System Update / Cyber Anime Game UI / AI Companion Online</text>
-<rect x="36" y="104" width="420" height="8" rx="4" fill="#1f2937"/><rect x="36" y="104" width="330" height="8" rx="4" fill="#38bdf8"><animate attributeName="width" values="220;390;290;330" dur="9s" repeatCount="indefinite"/></rect>
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Patch notes timeline visual">
+<rect width="1200" height="200" rx="18" fill="#0f172a"/>
+<text x="60" y="64" fill="#f8fafc" font-size="30" font-family="Segoe UI" font-weight="700">PATCH NOTES</text>
+<path d="M60 122H1140" stroke="#334155" stroke-width="3"/>
+<g fill="#60a5fa"><circle cx="180" cy="122" r="8"/><circle cx="380" cy="122" r="8"/><circle cx="580" cy="122" r="8"/><circle cx="780" cy="122" r="8"/><circle cx="980" cy="122" r="8"/></g>
+<path d="M980 122H1135" stroke="#ef4444" stroke-width="4"/>
 </svg>

@@ -1,44 +1,42 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mizzz OS cyber anime hero">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cyber anime racing HUD hero banner">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
-    <radialGradient id="c1" cx="0.2" cy="0.2" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.4"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
-    <radialGradient id="c2" cx="0.8" cy="0.3" r="0.6"><stop offset="0" stop-color="#d946ef" stop-opacity="0.35"/><stop offset="1" stop-color="#d946ef" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#60a5fa" stroke-opacity="0.08"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="tail" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ef4444" stop-opacity="0"/><stop offset="0.5" stop-color="#ef4444"/><stop offset="1" stop-color="#f97316" stop-opacity="0.2"/></linearGradient>
   </defs>
-  <rect width="1200" height="420" fill="url(#bg)"/>
-  <rect width="1200" height="420" fill="url(#grid)"/>
-  <rect y="0" width="1200" height="2" fill="#a78bfa" opacity="0.4"><animate attributeName="y" values="0;420;0" dur="14s" repeatCount="indefinite"/></rect>
-  <circle cx="220" cy="90" r="180" fill="url(#c1)"/><circle cx="970" cy="130" r="180" fill="url(#c2)"/>
-
-  <g transform="translate(70 70)" font-family="Segoe UI,Arial,sans-serif">
-    <text x="0" y="24" fill="#93c5fd" font-size="13">mizzz OS / Developer Guild / Cyber Anime Portfolio</text>
-    <text x="0" y="95" fill="#f8fafc" font-size="72" font-weight="700">mizzz</text>
-    <text x="0" y="130" fill="#cbd5e1" font-size="24">Product Builder</text>
-    <text x="0" y="160" fill="#a5b4fc" font-size="20">AI Native Developer</text>
-    <text x="0" y="198" fill="#cbd5e1" font-size="18">Build small. Polish fast. Operate safely.</text>
-    <text x="0" y="238" fill="#67e8f9" font-size="15">UI / API / DB / Worker / Bot / AI</text>
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#38bdf8" stroke-width="1">
+    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/>
+    <path d="M100 0V420M260 0V420M420 0V420M580 0V420M740 0V420M900 0V420M1060 0V420"/>
   </g>
-
-  <g transform="translate(680 58)">
-    <rect width="450" height="300" rx="20" fill="#111827" fill-opacity="0.72" stroke="#60a5fa" stroke-opacity="0.5"/>
-    <text x="26" y="38" fill="#f8fafc" font-size="18" font-family="Segoe UI,Arial,sans-serif">STATUS PANEL</text>
-    <text x="26" y="64" fill="#94a3b8" font-size="13" font-family="Segoe UI,Arial,sans-serif">mizzz OS booting...</text>
-    <g transform="translate(26 90)">
-      <rect width="398" height="10" rx="5" fill="#1f2937"/><rect width="310" height="10" rx="5" fill="#38bdf8"><animate attributeName="width" values="180;360;250;310" dur="8s" repeatCount="indefinite"/></rect>
-      <rect y="38" width="398" height="10" rx="5" fill="#1f2937"/><rect y="38" width="280" height="10" rx="5" fill="#8b5cf6"><animate attributeName="width" values="120;330;240;280" dur="7s" repeatCount="indefinite"/></rect>
-      <rect y="76" width="398" height="10" rx="5" fill="#1f2937"/><rect y="76" width="250" height="10" rx="5" fill="#d946ef"><animate attributeName="width" values="140;300;220;250" dur="9s" repeatCount="indefinite"/></rect>
-    </g>
-    <text x="26" y="224" fill="#cbd5e1" font-size="14" font-family="Segoe UI,Arial,sans-serif">UI-first Engineering</text>
-    <text x="26" y="248" fill="#94a3b8" font-size="13" font-family="Segoe UI,Arial,sans-serif">Frontend-focused Full Stack</text>
-    <text x="26" y="272" fill="#94a3b8" font-size="13" font-family="Segoe UI,Arial,sans-serif">Command Center: ONLINE</text>
+  <rect x="0" y="0" width="1200" height="420" fill="url(#tail)" opacity="0.15">
+    <animate attributeName="x" values="-1200;1200" dur="14s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(870 210)">
+    <circle r="110" stroke="#1e293b" stroke-width="18"/>
+    <circle r="110" stroke="url(#neon)" stroke-width="6" stroke-dasharray="22 14" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M0 -100 A100 100 0 0 1 86 -50" stroke="#ef4444" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+    <path d="M0 0L72 -20" stroke="#60a5fa" stroke-width="4" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" values="-20;35;-20" dur="8s" repeatCount="indefinite"/>
+    </path>
   </g>
-
-  <g stroke="#60a5fa" stroke-opacity="0.45" fill="none">
-    <ellipse cx="900" cy="200" rx="170" ry="96"/>
-    <ellipse cx="900" cy="200" rx="230" ry="132"/>
+  <path d="M180 300C280 258 385 252 470 258C560 264 635 274 715 268C765 264 812 247 868 250" stroke="#60a5fa" stroke-width="4" opacity="0.8"/>
+  <path d="M180 315C305 306 402 298 525 304C620 309 726 325 860 306" stroke="#8b5cf6" stroke-width="2" opacity="0.75"/>
+  <path d="M145 288C196 268 260 257 338 258C419 258 500 276 561 277" stroke="#cbd5e1" stroke-width="2" opacity="0.65"/>
+  <rect x="150" y="333" width="760" height="4" fill="#38bdf8" opacity="0.5"/>
+  <rect x="150" y="346" width="760" height="3" fill="#8b5cf6" opacity="0.35"/>
+  <rect x="570" y="293" width="120" height="5" rx="3" fill="#ef4444"><animate attributeName="x" values="540;700;540" dur="7s" repeatCount="indefinite"/></rect>
+  <g fill="#38bdf8">
+    <circle cx="130" cy="96" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="66" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="92" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
   </g>
-  <g>
-    <circle cx="1070" cy="200" r="5" fill="#38bdf8"><animateTransform attributeName="transform" type="rotate" from="0 900 200" to="360 900 200" dur="12s" repeatCount="indefinite"/></circle>
-    <circle cx="1130" cy="200" r="5" fill="#d946ef"><animateTransform attributeName="transform" type="rotate" from="360 900 200" to="0 900 200" dur="16s" repeatCount="indefinite"/></circle>
-  </g>
+  <text x="90" y="122" fill="#f8fafc" font-size="54" font-family="Segoe UI, sans-serif" font-weight="700">mizzz</text>
+  <text x="90" y="160" fill="#38bdf8" font-size="23" font-family="Segoe UI, sans-serif">Product Builder ・ AI Native Developer</text>
+  <text x="90" y="192" fill="#cbd5e1" font-size="18" font-family="Segoe UI, sans-serif">Build small. Polish fast. Operate safely.</text>
+  <text x="90" y="233" fill="#a78bfa" font-size="16" font-family="Segoe UI, sans-serif">UI / API / DB / Worker / Bot / AI</text>
 </svg>

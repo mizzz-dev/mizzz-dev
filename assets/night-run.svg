@@ -1,0 +1,8 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Night run mode decorative visual">
+<rect width="1200" height="170" rx="16" fill="#020617"/>
+<text x="60" y="58" fill="#f8fafc" font-size="28" font-family="Segoe UI" font-weight="700">NIGHT RUN MODE</text>
+<text x="60" y="86" fill="#cbd5e1" font-size="14" font-family="Segoe UI">Build / Ship / Tune / Repeat</text>
+<path d="M70 130H1130" stroke="#334155"/><path d="M70 136H1130" stroke="#38bdf8" stroke-opacity=".5"/>
+<path d="M680 122C740 98 815 95 885 102C940 107 995 122 1060 116" stroke="#60a5fa" stroke-width="3"/>
+<rect x="960" y="112" width="88" height="4" rx="2" fill="#ef4444"/>
+</svg>
