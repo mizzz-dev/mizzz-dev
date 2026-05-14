@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 220' role='img' aria-label='MISSION BOARD'>
+<rect width='1200' height='220' rx='18' fill='#0f172a'/><rect x='20' y='20' width='1160' height='180' rx='14' fill='none' stroke='#38bdf8' opacity='.45'/>
+<text x='56' y='88' fill='#f8fafc' font-size='42' font-family='Arial'>MISSION BOARD</text>
+<text x='56' y='126' fill='#a78bfa' font-size='20' font-family='Arial'>main / side / skill / daily missions</text>
+<circle cx='1060' cy='80' r='28' fill='none' stroke='#8b5cf6'><animateTransform attributeName='transform' type='rotate' from='0 1060 80' to='360 1060 80' dur='12s' repeatCount='indefinite'/></circle>
+<rect x='980' y='150' width='120' height='6' fill='#ef4444'><animate attributeName='opacity' values='0.2;1;0.2' dur='2s' repeatCount='indefinite'/></rect>
+</svg>
