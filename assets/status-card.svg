@@ -1,0 +1,32 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="developer status card">
+  <defs>
+    <linearGradient id="st-bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040817"/>
+      <stop offset="1" stop-color="#090F24"/>
+    </linearGradient>
+    <linearGradient id="bar-a" x1="0" y1="0" x2="300" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+    <linearGradient id="bar-b" x1="0" y1="0" x2="300" y2="0"><stop offset="0" stop-color="#818cf8"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="20" fill="url(#st-bg)"/>
+  <rect x="28" y="22" width="1144" height="206" rx="14" stroke="#93c5fd" stroke-opacity="0.3"/>
+  <text x="56" y="62" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="2">DEVELOPER STATUS</text>
+
+  <text x="56" y="98" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="14">CLASS: Product Builder</text>
+  <text x="56" y="122" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="14">ROLE: Frontend-focused Full Stack</text>
+  <text x="56" y="146" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="14">TRAIT: AI Native Developer</text>
+  <text x="56" y="170" fill="#BFDBFE" font-family="Segoe UI,Arial,sans-serif" font-size="14">QUEST: Small Product Shipping</text>
+
+  <g transform="translate(620 78)">
+    <text x="0" y="0" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="13">HP: Product Shipping</text>
+    <rect x="0" y="10" width="470" height="10" rx="5" fill="#1e293b"/>
+    <rect x="0" y="10" width="350" height="10" rx="5" fill="url(#bar-a)"><animate attributeName="width" values="280;360;320;350" dur="8s" repeatCount="indefinite"/></rect>
+
+    <text x="0" y="46" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="13">MP: AI Native Workflow</text>
+    <rect x="0" y="56" width="470" height="10" rx="5" fill="#1e293b"/>
+    <rect x="0" y="56" width="320" height="10" rx="5" fill="url(#bar-b)"><animate attributeName="width" values="240;340;290;320" dur="7.4s" repeatCount="indefinite"/></rect>
+
+    <text x="0" y="92" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="13">EXP: Full Stack Foundation</text>
+    <rect x="0" y="102" width="470" height="10" rx="5" fill="#1e293b"/>
+    <rect x="0" y="102" width="380" height="10" rx="5" fill="url(#bar-a)"><animate attributeName="width" values="300;400;350;380" dur="9s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
