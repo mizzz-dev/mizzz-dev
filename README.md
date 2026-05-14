@@ -112,7 +112,6 @@ AIを実装代行ではなく、要件整理・設計レビュー・デバッグ
 
 Frontend Bay / API Gate / Database Core / Worker Lane / Bot Station / AI Lab / Cloud Port / Game Zone / Garage Hub
 
-## Work With Me
 
 小さく作って、運用できる形まで整える実装パートナーとして伴走します。UI改善、機能追加、設計整理、Bot連携、ダッシュボード構築、AIを使った要件整理・レビュー支援まで、今あるものを活かしながら一段使いやすくします。
 
@@ -147,6 +146,17 @@ Frontend Bay / API Gate / Database Core / Worker Lane / Bot Station / AI Lab / C
 - v3.2: Garage Lineupを強化
 - v3.3: Pit Crew AIを追加
 - v3.4: スポーツカー / SUVインスパイアの世界観を追加
+
+## Patch Notes
+
+<p align="center"><img src="./assets/patch-notes.svg" width="100%" alt="patch notes timeline visual" /></p>
+
+- v2.0: アニメ・ゲーム調のプロフィールUIへ進化
+- v2.1: Contact Portalを強化
+- v2.2: Mizzz OS / Quest Board / Build Archive を再編
+- v2.3: AI Companion を追加
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="section divider" /></p>
 
 ## Links / Contact
 <p align="center">
