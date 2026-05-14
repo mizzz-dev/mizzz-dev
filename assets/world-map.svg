@@ -1,0 +1,13 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="developer world map">
+<rect width="1200" height="240" rx="16" fill="#0f172a"/>
+<g stroke="#60a5fa" stroke-opacity="0.5">
+<path d="M120 120H300L420 70H620L760 130H980"/>
+<path d="M420 70L420 170H620"/>
+</g>
+<g fill="#38bdf8">
+<circle cx="120" cy="120" r="7"/><circle cx="300" cy="120" r="7"/><circle cx="420" cy="70" r="7"/><circle cx="620" cy="70" r="7"/><circle cx="760" cy="130" r="7"/><circle cx="980" cy="130" r="7"/><circle cx="420" cy="170" r="7"/><circle cx="620" cy="170" r="7"/>
+</g>
+<g fill="#e2e8f0" font-size="13" font-family="Segoe UI,Arial">
+<text x="90" y="146">Frontend City</text><text x="270" y="146">API Gate</text><text x="386" y="56">Database Core</text><text x="584" y="56">Worker Factory</text><text x="726" y="154">Bot Guild</text><text x="946" y="154">AI Lab</text><text x="380" y="196">Cloud Port</text><text x="582" y="196">Game Zone</text>
+</g>
+</svg>
