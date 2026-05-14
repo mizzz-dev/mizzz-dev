@@ -1,11 +1,1 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack arsenal engine room orbit visual">
-<rect width="1200" height="280" rx="20" fill="#0f172a"/>
-<text x="60" y="64" fill="#f8fafc" font-size="32" font-family="Segoe UI" font-weight="700">STACK ARSENAL</text>
-<g transform="translate(600 160)">
-<circle r="64" fill="#111827" stroke="#38bdf8" stroke-opacity=".6"/><circle r="95" fill="none" stroke="#334155"/><circle r="95" fill="none" stroke="#8b5cf6" stroke-dasharray="12 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/></circle>
-<text y="6" text-anchor="middle" fill="#cbd5e1" font-size="14" font-family="Segoe UI">ENGINE CORE</text>
-</g>
-<g stroke="#60a5fa" stroke-opacity=".55"><path d="M120 160H500"/><path d="M700 160H1080"/><path d="M600 56V95"/><path d="M600 225V264"/></g>
-<g fill="#38bdf8"><circle cx="120" cy="160" r="5"/><circle cx="1080" cy="160" r="5"/><circle cx="600" cy="56" r="5"/><circle cx="600" cy="264" r="5"/></g>
-<path d="M350 228A290 290 0 0 1 850 228" stroke="#ef4444" stroke-opacity=".5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="stack arsenal orbit core"><defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="c" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs><rect width="1200" height="260" fill="url(#b)"/><text x="50" y="48" fill="#f8fafc" font-size="28">STACK ARSENAL</text><g transform="translate(600 140)"><circle r="86" fill="none" stroke="#1e293b" stroke-width="16"/><circle r="86" fill="none" stroke="url(#c)" stroke-width="3" stroke-dasharray="7 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/></circle><circle r="30" fill="#0f172a" stroke="#60a5fa"/><text x="-18" y="5" fill="#f8fafc" font-size="11">CORE</text></g><g fill="#cbd5e1" font-size="15"><text x="220" y="90">Main Weapons</text><text x="860" y="90">Support Gear</text><text x="980" y="145">Cloud Gear</text><text x="850" y="215">Experimental</text><text x="220" y="215">AI Gear</text></g></svg>
