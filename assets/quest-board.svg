@@ -1,0 +1,29 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="quest board banner">
+  <defs>
+    <linearGradient id="qb-bg" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#060A1A"/>
+      <stop offset="1" stop-color="#090F24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" rx="20" fill="url(#qb-bg)"/>
+  <rect x="24" y="22" width="1152" height="156" rx="14" stroke="#818cf8" stroke-opacity="0.35"/>
+  <text x="56" y="66" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="2">QUEST BOARD</text>
+
+  <g transform="translate(56 92)" font-family="Segoe UI,Arial,sans-serif" font-size="14">
+    <rect x="0" y="0" width="250" height="64" rx="10" fill="#10182F" stroke="#60a5fa" stroke-opacity="0.6"/>
+    <text x="14" y="27" fill="#BFDBFE">Product UI</text><text x="14" y="47" fill="#94A3B8">Main Quest</text>
+
+    <rect x="272" y="0" width="250" height="64" rx="10" fill="#10182F" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <text x="286" y="27" fill="#BFDBFE">Full Stack</text><text x="286" y="47" fill="#94A3B8">Side Quest</text>
+
+    <rect x="544" y="0" width="250" height="64" rx="10" fill="#10182F" stroke="#22d3ee" stroke-opacity="0.6"/>
+    <text x="558" y="27" fill="#BFDBFE">AI Native</text><text x="558" y="47" fill="#94A3B8">Skill Quest</text>
+
+    <rect x="816" y="0" width="250" height="64" rx="10" fill="#10182F" stroke="#d946ef" stroke-opacity="0.6"/>
+    <text x="830" y="27" fill="#BFDBFE">Small Shipping</text><text x="830" y="47" fill="#94A3B8">Daily Quest</text>
+  </g>
+
+  <line x1="56" y1="86" x2="1146" y2="86" stroke="#22d3ee" stroke-opacity="0.45">
+    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="4.5s" repeatCount="indefinite"/>
+  </line>
+</svg>
