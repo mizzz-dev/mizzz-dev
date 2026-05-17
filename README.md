@@ -147,7 +147,7 @@ UI改善、機能追加、設計整理、Bot連携、ダッシュボード構築
 Night garage / coding / drive mode のBGMログ。
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31icfzf5r7bbuwi5z4sjgqr5tuxe" alt="Spotify recently played" />
+  <img src="./assets/now-playing.svg" width="100%" alt="recently played music from YouTube Music" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="section divider" /></p>
