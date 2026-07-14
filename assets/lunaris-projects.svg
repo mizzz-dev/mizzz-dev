@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="mizzz featured project constellation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#100a1b"/><stop offset=".52" stop-color="#241437"/><stop offset="1" stop-color="#0b0812"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7854a6"/><stop offset=".5" stop-color="#dfcff5"/><stop offset="1" stop-color="#7854a6"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1" fill="#c8afe6" opacity=".25"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#dots)"/>
+  <rect x="12" y="12" width="1176" height="336" rx="22" fill="none" stroke="#8d69b7"/>
+  <text x="48" y="55" fill="#dfd0f3" font-size="15" letter-spacing="5">FEATURED CONSTELLATION // ACTIVE BUILDS</text>
+  <text x="48" y="87" fill="#9e81bf" font-size="13">Community, automation, learning, mobility, and product experiments.</text>
+
+  <g stroke="#8961b4" stroke-opacity=".45" fill="none">
+    <path d="M154 181L361 141 584 196 818 131 1045 188"/>
+    <path d="M154 181L584 196M361 141L818 131M584 196L1045 188" stroke-dasharray="5 9"/>
+  </g>
+
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(56 126)">
+      <rect width="200" height="136" rx="20" fill="#1f122e" stroke="#9d74c7"/>
+      <circle cx="38" cy="38" r="18" fill="#6e439b" filter="url(#glow)"/>
+      <path d="M29 38h18M38 29v18" stroke="#f1e8ff" stroke-width="2"/>
+      <text x="68" y="34" fill="#f4edff" font-size="21" font-weight="700">ivRoom</text>
+      <text x="68" y="55" fill="#b79bd5" font-size="12">COMMUNITY HUB</text>
+      <text x="20" y="88" fill="#d8cae9" font-size="13">Gaming / Discord / Web</text>
+      <text x="20" y="110" fill="#a98cc7" font-size="12">Community ecosystem</text>
+    </g>
+
+    <g transform="translate(276 106)">
+      <rect width="200" height="136" rx="20" fill="#1f122e" stroke="#9d74c7"/>
+      <circle cx="38" cy="38" r="18" fill="#6e439b" filter="url(#glow)"/>
+      <path d="M28 40c10-13 20-13 30 0M33 31h10M43 31h10" stroke="#f1e8ff" stroke-width="2" fill="none"/>
+      <text x="68" y="34" fill="#f4edff" font-size="21" font-weight="700">Lunaria</text>
+      <text x="68" y="55" fill="#b79bd5" font-size="12">OPS PLATFORM</text>
+      <text x="20" y="88" fill="#d8cae9" font-size="13">Bot / API / Dashboard</text>
+      <text x="20" y="110" fill="#a98cc7" font-size="12">Discord operations</text>
+    </g>
+
+    <g transform="translate(496 161)">
+      <rect width="200" height="136" rx="20" fill="#1f122e" stroke="#9d74c7"/>
+      <circle cx="38" cy="38" r="18" fill="#6e439b" filter="url(#glow)"/>
+      <path d="M29 34h18v14H29zM34 29h18v14" stroke="#f1e8ff" stroke-width="2" fill="none"/>
+      <text x="68" y="34" fill="#f4edff" font-size="21" font-weight="700">Quizverse</text>
+      <text x="68" y="55" fill="#b79bd5" font-size="12">LEARNING PRODUCT</text>
+      <text x="20" y="88" fill="#d8cae9" font-size="13">Create / Play / Rank</text>
+      <text x="20" y="110" fill="#a98cc7" font-size="12">Interactive learning</text>
+    </g>
+
+    <g transform="translate(716 96)">
+      <rect width="200" height="136" rx="20" fill="#1f122e" stroke="#9d74c7"/>
+      <circle cx="38" cy="38" r="18" fill="#6e439b" filter="url(#glow)"/>
+      <path d="M25 43l11-14 11 9 12-13M28 49h30" stroke="#f1e8ff" stroke-width="2" fill="none"/>
+      <text x="68" y="34" fill="#f4edff" font-size="20" font-weight="700">RouteGarage</text>
+      <text x="68" y="55" fill="#b79bd5" font-size="12">MOBILITY PRODUCT</text>
+      <text x="20" y="88" fill="#d8cae9" font-size="13">Route / Drive / Garage</text>
+      <text x="20" y="110" fill="#a98cc7" font-size="12">For driving enthusiasts</text>
+    </g>
+
+    <g transform="translate(936 146)">
+      <rect width="208" height="136" rx="20" fill="#1f122e" stroke="#9d74c7"/>
+      <circle cx="38" cy="38" r="18" fill="#6e439b" filter="url(#glow)"/>
+      <path d="M27 46l7-15 7 9 7-13 9 19z" stroke="#f1e8ff" stroke-width="2" fill="none"/>
+      <text x="68" y="34" fill="#f4edff" font-size="20" font-weight="700">NTE Score</text>
+      <text x="68" y="55" fill="#b79bd5" font-size="12">BUILD UTILITY</text>
+      <text x="20" y="88" fill="#d8cae9" font-size="13">Score / Compare / Optimize</text>
+      <text x="20" y="110" fill="#a98cc7" font-size="12">Game build calculator</text>
+    </g>
+  </g>
+
+  <path d="M50 324h1100" stroke="url(#line)" stroke-width="2" stroke-dasharray="14 10"><animate attributeName="stroke-dashoffset" from="0" to="-220" dur="12s" repeatCount="indefinite"/></path>
+</svg>
