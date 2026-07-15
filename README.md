@@ -1,75 +1,64 @@
 <p align="center">
-  <img src="./assets/lunaris-hero.svg" width="100%" alt="mizzz Lunaris developer archive hero" />
+  <img src="./assets/profile-hero.png" width="100%" alt="mizzz build drive create profile hero" />
 </p>
 
 <p align="center">
-  <a href="https://mizzz.jp"><img src="https://img.shields.io/badge/PORTFOLIO-mizzz.jp-8b5fbf?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://ivrm.jp"><img src="https://img.shields.io/badge/COMMUNITY-ivRoom-bb8bd9?style=for-the-badge&logo=discord&logoColor=white" alt="ivRoom" /></a>
-  <a href="https://x.com/mizzzjp"><img src="https://img.shields.io/badge/X-@mizzzjp-17111f?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:contact@mizzz.jp"><img src="https://img.shields.io/badge/CONTACT-contact%40mizzz.jp-61417f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mizzz.jp"><img src="https://img.shields.io/badge/PORTFOLIO-mizzz.jp-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ivrm.jp"><img src="https://img.shields.io/badge/COMMUNITY-ivRoom-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ivRoom" /></a>
+  <a href="https://x.com/mizzzjp"><img src="https://img.shields.io/badge/X-@mizzzjp-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:contact@mizzz.jp"><img src="https://img.shields.io/badge/CONTACT-contact%40mizzz.jp-4338ca?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<h1 align="center">mizzz（ずーみー）</h1>
+
+<p align="center">
+  <strong>Frontend-focused Full Stack Developer / Product Builder</strong><br/>
+  React・Next.js・TypeScriptを軸に、UIからAPI、DB、Bot、Cloud、運用までつなげて実装しています。
 </p>
 
 <p align="center">
-  <strong>mizzz（ずーみー）</strong><br/>
-  Frontend-focused Full Stack Developer / Product Builder / AI Native Developer
+  アニメの画づくり、車の機能美、ガジェットの精密さが好きです。<br/>
+  特定のキャラクター設定に寄せず、好きなカルチャーと技術をプロダクトの体験へ落とし込みます。
 </p>
 
 <p align="center">
-  React・Next.js・TypeScriptを軸に、UI、API、DB、Worker、Bot、Cloudをつなぎ、<br/>
-  アイデアを「実際に使えて、継続運用できるプロダクト」へ育てています。
+  <img src="./assets/profile-motion.gif" width="100%" alt="animated build signal with anime car gadget and code motifs" />
 </p>
 
-<p align="center"><img src="./assets/lunaris-divider.svg" width="100%" alt="section divider" /></p>
+---
 
-## Developer Archive
-
-<p align="center">
-  <img src="./assets/lunaris-status.svg" width="100%" alt="developer status archive" />
-</p>
+## Current Mode
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌙 What I Build</h3>
-      <p>使いやすいWeb UI、コミュニティ運営基盤、Discord Bot、業務支援ツール、ゲーム関連ユーティリティを中心に開発しています。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗝️ How I Build</h3>
-      <p>小さく作り、早く検証し、安全に改善する方針です。AIを要件整理、実装、レビュー、デバッグ、ドキュメント整備へ組み込んでいます。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦋 Current Focus</h3>
-      <p>フロントエンドの体験品質を主軸に、バックエンド・インフラ・運用設計まで扱える実装力を強化しています。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔮 Design Direction</h3>
-      <p>ダーク、紫、月、星、ゴシック、ゲームUIの空気感を取り入れつつ、視認性と実用性を崩さないデザインを好みます。</p>
-    </td>
+    <td width="25%" align="center"><strong>FRONTEND</strong><br/><sub>UI / UX / Motion</sub></td>
+    <td width="25%" align="center"><strong>FULL STACK</strong><br/><sub>API / DB / Worker</sub></td>
+    <td width="25%" align="center"><strong>COMMUNITY</strong><br/><sub>Discord / Bot / Ops</sub></td>
+    <td width="25%" align="center"><strong>AI NATIVE</strong><br/><sub>Design / Build / Review</sub></td>
   </tr>
 </table>
 
-<p align="center"><img src="./assets/lunaris-divider.svg" width="100%" alt="section divider" /></p>
+- **Build:** アイデアを、触れて試せるWebプロダクトへ変える
+- **Polish:** 見た目だけでなく、導線・速度・レスポンシブ・操作感まで磨く
+- **Operate:** 権限、ログ、監視、復旧、ドキュメントを実装の一部として扱う
+- **Explore:** アニメ、車、ガジェットから得た質感や機能美をUIへ取り入れる
 
-## Featured Constellation
+---
 
-<p align="center">
-  <img src="./assets/lunaris-projects.svg" width="100%" alt="featured project constellation" />
-</p>
+## Featured Builds
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://ivrm.jp">ivRoom</a></h3>
-      <p><strong>Community Ecosystem</strong></p>
-      <p>ゲーム、雑談、配信、創作、勉強会をつなぐDiscordコミュニティ。Webサイト、Bot、Minecraft、運営基盤を横断して整備しています。</p>
+      <p><strong>Gaming Community Ecosystem</strong></p>
+      <p>ゲーム、雑談、配信、創作、勉強会をつなぐコミュニティ。Webサイト、Discord、Minecraft、運営基盤を横断して整備しています。</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Cloudflare</code> <code>Discord</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mizzz-dev/Lunaria">Lunaria</a></h3>
       <p><strong>Discord Community Operations Platform</strong></p>
-      <p>Bot、管理ダッシュボード、API、Worker、RBAC、監査ログ、ルールエンジンを統合するコミュニティ運営プラットフォーム。</p>
+      <p>Bot、管理ダッシュボード、API、Worker、RBAC、監査ログ、ルールエンジンを統合するコミュニティ運営基盤です。</p>
       <p><code>TypeScript</code> <code>Discord.js</code> <code>PostgreSQL</code> <code>Redis</code></p>
     </td>
   </tr>
@@ -77,13 +66,13 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mizzz-dev/quizverse">Quizverse</a></h3>
       <p><strong>Interactive Learning Product</strong></p>
-      <p>クイズの作成、プレイ、ランキングを通して、学習と参加体験をつなぐインタラクティブWebプロダクト。</p>
+      <p>クイズの作成、プレイ、ランキングを通して、学習と参加体験をつなぐインタラクティブWebプロダクトです。</p>
       <p><code>React</code> <code>TypeScript</code> <code>Web Product</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mizzz-dev/RouteGarage">RouteGarage</a></h3>
       <p><strong>Mobility & Drive Platform</strong></p>
-      <p>ルート案内、走行記録、スポット共有、愛車管理をまとめる、日本のドライブユーザー向けプロダクト構想。</p>
+      <p>ルート案内、走行記録、スポット共有、愛車管理をまとめる、日本のドライブユーザー向けプロダクト構想です。</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Location</code> <code>Privacy</code></p>
     </td>
   </tr>
@@ -91,13 +80,13 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mizzz-dev/NTE-Build-Score-Calculator">NTE Build Score Calculator</a></h3>
       <p><strong>Game Build Utility</strong></p>
-      <p>ゲーム内ビルドのスコア確認、比較、最適化を支援するダークネオン基調の非公式ファンツール。</p>
+      <p>ゲーム内ビルドのスコア確認、比較、最適化を支援する、ダークネオン基調の非公式ファンツールです。</p>
       <p><code>Next.js</code> <code>Supabase</code> <code>Design System</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mizzz-dev/mealwise">Mealwise</a></h3>
       <p><strong>Lifestyle Planning App</strong></p>
-      <p>予算内での献立、買い物、価格記録をつなぎ、毎日の食事管理を支えるライフスタイルアプリ。</p>
+      <p>予算内での献立、買い物、価格記録をつなぎ、毎日の食事管理を支えるライフスタイルアプリです。</p>
       <p><code>Product Design</code> <code>Web App</code> <code>Planning</code></p>
     </td>
   </tr>
@@ -116,13 +105,9 @@
   </p>
 </details>
 
-<p align="center"><img src="./assets/lunaris-divider.svg" width="100%" alt="section divider" /></p>
+---
 
-## Stack Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,py,go,fastapi,postgres,redis,docker,githubactions,cloudflare,gcp,aws,azure,vercel,nuxtjs,flutter,unreal,c,cs,cpp&perline=13&theme=dark" alt="technology stack" />
-</p>
+## Technology Stack
 
 <table>
   <tr>
@@ -148,60 +133,43 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_NATIVE-DEVELOPMENT-8b5fbf?style=for-the-badge" alt="AI Native Development" />
-  <img src="https://img.shields.io/badge/PRODUCT-ENGINEERING-bb8bd9?style=for-the-badge" alt="Product Engineering" />
-  <img src="https://img.shields.io/badge/SECURE-BY_DESIGN-61417f?style=for-the-badge" alt="Secure by Design" />
-  <img src="https://img.shields.io/badge/SHIP-AND_IMPROVE-2b193e?style=for-the-badge" alt="Ship and Improve" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-<p align="center"><img src="./assets/lunaris-divider.svg" width="100%" alt="section divider" /></p>
+---
 
 ## Build Principles
 
 ```text
-01. Build small        — 最初から巨大化させず、価値の中心から実装する
-02. Polish fast        — 実際に触りながら、UIと導線を素早く磨く
-03. Operate safely     — セキュリティ、権限、ログ、復旧を設計に含める
-04. Document decisions — 重要判断をREADME、Issue、ADR、作業ログに残す
-05. AI with review     — AIを活用しつつ、最終判断と品質責任は人間が持つ
+01. Build small        — 価値の中心から実装し、早い段階で触れる状態にする
+02. Polish fast        — UI、導線、速度、レスポンシブを実利用から磨く
+03. Operate safely     — セキュリティ、権限、ログ、監視、復旧を含めて設計する
+04. Document decisions — README、Issue、ADR、作業ログへ重要判断を残す
+05. AI with review     — AIを活用し、最終判断と品質責任は人間が持つ
 ```
 
-<p align="center"><img src="./assets/lunaris-divider.svg" width="100%" alt="section divider" /></p>
-
-## Signal Log
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mizzz-dev&show_icons=true&hide_border=true&rank_icon=github&bg_color=100a1b&title_color=d8c5ef&text_color=c5b5d7&icon_color=9c72c7" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzz-dev&layout=compact&hide_border=true&langs_count=8&exclude_repo=mizzz-dev&bg_color=100a1b&title_color=d8c5ef&text_color=c5b5d7" height="170" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizzz-dev&bg_color=100a1b&color=c8b5df&line=9b72c4&point=e5d9f5&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mizzz-dev/mizzz-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
-  </picture>
-</p>
-
-<p align="center"><img src="./assets/lunaris-divider.svg" width="100%" alt="section divider" /></p>
+---
 
 ## Open Channel
 
 <p align="center">
-  UI改善、Webアプリ開発、Discord Bot、コミュニティ基盤、AI活用開発、個人プロジェクトについて発信しています。
+  UI改善、Webアプリ、Discord Bot、コミュニティ基盤、AI活用開発、車・ガジェット系プロダクトについて発信しています。
 </p>
 
 <p align="center">
-  <a href="https://mizzz.jp"><img src="https://img.shields.io/badge/WEBSITE-mizzz.jp-8b5fbf?style=for-the-badge" alt="Website" /></a>
-  <a href="https://ivrm.jp"><img src="https://img.shields.io/badge/IVROOM-ivrm.jp-bb8bd9?style=for-the-badge" alt="ivRoom" /></a>
-  <a href="https://github.com/mizzz-dev"><img src="https://img.shields.io/badge/GITHUB-mizzz--dev-17111f?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:contact@mizzz.jp"><img src="https://img.shields.io/badge/EMAIL-contact%40mizzz.jp-61417f?style=for-the-badge" alt="Email" /></a>
+  <a href="https://mizzz.jp">Website</a> ・
+  <a href="https://ivrm.jp">ivRoom</a> ・
+  <a href="https://github.com/mizzz-dev">GitHub</a> ・
+  <a href="https://x.com/mizzzjp">X</a> ・
+  <a href="mailto:contact@mizzz.jp">Email</a>
 </p>
 
 <p align="center">
-  <sub>Designed as an original lunar-gothic developer archive for mizzz.</sub>
+  <sub>Original raster artwork and motion graphics generated in-repository. No character persona, no custom SVG illustrations.</sub>
 </p>
